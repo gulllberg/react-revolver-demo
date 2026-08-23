@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Usage example of [react-revolver](https://github.com/gulllberg/react-revolver).
 
-You can check it out [here](https://www.gullberg.dev/react-revolver-demo.html).
+You can check it out [here](https://gulllberg.github.io/react-revolver-demo/).
 
 To try it out yourself:
 1. Clone the repo
