@@ -4,9 +4,9 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-revolver": "^1.0.0"
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-revolver": "^2.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
